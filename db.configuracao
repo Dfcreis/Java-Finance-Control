@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/gestaodevalor
+user=root
+password=1234567
